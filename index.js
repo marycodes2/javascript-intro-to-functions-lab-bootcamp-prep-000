@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 function shout(string) {
   return string.toUpperCase()
 }
@@ -65,3 +66,8 @@ describe('sayHiToGrandma(string)', function() {
 })
 
 */
+=======
+function shout(string){
+  return string.toUpperCase()
+}
+>>>>>>> 6d7381c3a038e6dcfbafc10bad685810f1516d56
